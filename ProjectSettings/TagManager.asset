@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fall
+  - CheckPoint
+  - Enemy
+  - WayPoint
+  - JumpAgain
+  - DestroyEnemy
+  - Ground
+  - Laser
+  - PlantHolder
+  - PlantAttack
+  - CrabBombTrigger
+  - SpaceManager
+  - PlanetManager
+  - BackgroundMusic
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Platform
+  - Player
+  - PlayerGhost
+  - Laser
+  - Enemy
+  - EnemyGhost
+  - EnemyLaser
+  - Fall
+  - Plant
+  - PlayerObstacle
+  - EnemyObstacle
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 1868336973
+    locked: 0
+  - name: Middleground
+    uniqueID: 3178361997
+    locked: 0
+  - name: Foreground
+    uniqueID: 1455281417
+    locked: 0
